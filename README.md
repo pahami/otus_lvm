@@ -260,8 +260,9 @@ Systems on them will not be added to the GRUB boot configuration.
 Check GRUB_DISABLE_OS_PROBER documentation entry.
 done
 ```
+</details>
 
-**Обновим образ initrd**
+Обновим образ initrd
 
 `update-initramfs -u`
 
